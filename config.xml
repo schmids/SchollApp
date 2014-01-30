@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "gba.stefanschmid.schoolapp"
+    version   = "1.0.0">
+
+<name>Gymnasium Bad Aibling</name>
+
+<description>
+Dies ist eine App des Gymnasiums in Bad Aibling. Hier könnt hier den Vertretungsplan, Speiseplan und die neusten News checken. Auch ist natürlich der Speiseplan der Mensa enthalten.
+
+Designer: Stefan Schmid
+Developer: Stefan Schmid
+
+Copyright Stefan Schmid
+</description>
+
+<author email="stefan-schmid98@gmx.de">
+Stefan Schmid
+</author>
+<gap:plugin name="ch.zhaw.sqlite" />
+<gap:plugin name="org.apache.cordova.network-information" />
+</widget>
